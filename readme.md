@@ -4,4 +4,4 @@ changelog - https://github.com/natahary/CalculSec/blob/main/changelog.md
 
 install - https://github.com/natahary/CalculSec/blob/main/install.md
 
-<img src="путь/к/logo.png" alt="Логотип" width="100"/>
+<img src="calc.png" alt="Логотип" width="100"/>
